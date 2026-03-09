@@ -1,0 +1,2070 @@
+{
+  "menus": {
+    "Site 1_Semaine1": {
+      "Lundi": {
+        "Lotte Asiatique": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Salade basque composée": {
+          "quantite": null,
+          "qualite": null,
+          "categorie": "entree"
+        },
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": null,
+          "qualite": null,
+          "categorie": "entree"
+        },
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": null,
+          "qualite": null,
+          "categorie": "entree"
+        }
+      },
+      "Mardi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Ananas frais": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Poire de l'aude": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Gaspacho Andalou": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 1_Semaine2": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade basque composée": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Mont de Lacaune": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade basque composée": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Fusili Bio": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Ananas frais": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Tortilla": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 1_Semaine3": {
+      "Lundi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Poire de l'aude": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Salade basque composée": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Fusili Bio": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 1_Semaine4": {
+      "Lundi": {
+        "Salade basque composée": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade basque composée": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Mont de Lacaune": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 1_Semaine5": {
+      "Lundi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Mont de Lacaune": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Gaspacho Andalou": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Tortilla": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade basque composée": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 2_Semaine1": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Mont de Lacaune": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Tortilla": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 2_Semaine2": {
+      "Lundi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Gaspacho Andalou": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade basque composée": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 2_Semaine3": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Mont de Lacaune": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Tortilla": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Salade basque composée": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Ananas frais": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Poire de l'aude": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 2_Semaine4": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade basque composée": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Fusili Bio": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 2_Semaine5": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade basque composée": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 3_Semaine1": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Melon espagnol": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade basque composée": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 3_Semaine2": {
+      "Lundi": {
+        "Salade basque composée": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Ratatouille": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade basque composée": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 3_Semaine3": {
+      "Lundi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Salade basque composée": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Lotte Asiatique": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade basque composée": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Ratatouille": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 3_Semaine4": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Gaspacho Andalou": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Frésinat de porc": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 1,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Tortilla": {
+          "quantite": 2,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Yaourt nature sucré Bio": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      }
+    },
+    "Site 3_Semaine5": {
+      "Lundi": {
+        "Gaspacho Andalou": {
+          "quantite": 2,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Cubes de pommes de terre": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      },
+      "Mardi": {
+        "Gaspacho Andalou": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "entree"
+        },
+        "Mont de Lacaune": {
+          "quantite": 2,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Poulet sauce basquaise": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Créme anglaise": {
+          "quantite": 1,
+          "qualite": 1,
+          "categorie": "dessert"
+        },
+        "Ananas frais": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Mercredi": {
+        "Salade Chinoise sauce sucrée ( chou chinois)": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Tortilla": {
+          "quantite": 3,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Fusili Bio": {
+          "quantite": 3,
+          "qualite": 3,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 3,
+          "categorie": "dessert"
+        }
+      },
+      "Jeudi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "entree"
+        },
+        "Lotte Asiatique": {
+          "quantite": 0,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Riz bio Cantonnais": {
+          "quantite": 2,
+          "qualite": 0,
+          "categorie": "plat"
+        },
+        "Poire de l'aude": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        },
+        "Gateau Basque": {
+          "quantite": 0,
+          "qualite": 2,
+          "categorie": "dessert"
+        }
+      },
+      "Vendredi": {
+        "Soupe à l'oignon et ses croutons à l'ail": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "entree"
+        },
+        "Frésinat de porc": {
+          "quantite": 3,
+          "qualite": 1,
+          "categorie": "plat"
+        },
+        "Tortilla": {
+          "quantite": 3,
+          "qualite": 2,
+          "categorie": "plat"
+        },
+        "Yaourt aux Fruits": {
+          "quantite": 1,
+          "qualite": 3,
+          "categorie": "dessert"
+        },
+        "Melon espagnol": {
+          "quantite": 0,
+          "qualite": 0,
+          "categorie": "dessert"
+        }
+      }
+    }
+  },
+  "last_update": "2026-03-09T15:52:17.846047"
+}
