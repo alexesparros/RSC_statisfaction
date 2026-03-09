@@ -1,0 +1,39 @@
+{
+  "semaine": "2026_03",
+  "periode": "12 au 18 janvier 2026",
+  "LUNDI": [
+    "Macédoine de légumes",
+    "Rôti de porc au jus",
+    "Purée de pomme de terre",
+    "Camembert à la coupe",
+    "Clémentine Bio"
+  ],
+  "MARDI": [
+    "Salade de perles",
+    "Poisson pané",
+    "Haricot beurre",
+    "Saint Môret Bio",
+    "Compote de pêche"
+  ],
+  "MERCREDI": [
+    "Salade verte aux croûtons",
+    "Saucisse de toulouse",
+    "Petits pois Bio",
+    "Crème dessert à la vanille",
+    "Salade de fruit"
+  ],
+  "JEUDI": [
+    "Soupe de légumes BIO",
+    "Hachis parmentier égrené nature Bio",
+    "***",
+    "Gouda à la coupe",
+    "Pomme du Tarn"
+  ],
+  "VENDREDI": [
+    "Carottes Bio râpées",
+    "Boulette d'agneau sauce provençale",
+    "Riz Bio",
+    "Liégeois au chocolat",
+    "Madeleine Bio"
+  ]
+}
